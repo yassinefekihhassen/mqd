@@ -1,0 +1,30 @@
+#custom-nav{
+  z-index: 100;
+  -webkit-box-shadow: 0 10px 10px -2px #999;
+    -moz-box-shadow: 0 10px 10px -2px #999;
+    box-shadow: 0 10px 10px -2px #999;
+}
+
+
+h1{
+  font-family: 'Raleway', sans-serif;
+}
+
+div.center {
+  text-align: center;
+}
+
+
+#boutonplus{
+  padding: 0px;
+  border-left: 0ch;
+  position: static;
+  text-align: center;
+
+}
+
+#titre{
+  text-align: center;
+}
+
+
